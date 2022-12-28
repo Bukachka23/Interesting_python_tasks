@@ -1,1 +1,1 @@
-# interesting_python_tasks
+# Example of solutions
